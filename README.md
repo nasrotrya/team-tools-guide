@@ -1,2 +1,2 @@
-# team-tools-guide
-A collaborative guide to development tools
+this file is the tp of the module soft skills and humanities tp 5 has done by the student future developer djelti mohamed el amine with trya nasro both are from groupe 5 
+this tp shows you how to use git and github and how to add files and shows you how to works with your teammate
